@@ -1,5 +1,5 @@
 # Great Movies
-[Great Movies]() is source code for a simple movie trailer website.
+[Great Movies](https://github.com/IanOstrom/Great_Movies) is source code for a simple movie trailer website.
 
 ### Run
 Download (or fork and clone) the whole repository and then open and run the [movie_list.py](movie_list.py) file in a Python IDE such as IDLE or PyCharm to launch the website.
